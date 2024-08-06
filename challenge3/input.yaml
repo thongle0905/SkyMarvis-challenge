@@ -1,0 +1,21 @@
+- name: Team1
+  member:
+    - User1
+    - User2
+  maintainer:
+    - User2
+- name: Team2
+  member:
+    - User1
+    - User3
+  maintainer:
+    - User2
+- name: Team3
+  maintainer:
+    - User1
+    - User3
+- name: Team4
+  member:
+    - User1
+    - User2
+    - User3
